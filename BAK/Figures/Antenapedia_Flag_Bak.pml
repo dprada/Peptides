@@ -1,4 +1,4 @@
-load BAK_model1.pdb
+load ../Structures/BAK_model1.pdb
 
 select pep_antenapedia, resid 1-16
 select pep_flag, resid 17-24
